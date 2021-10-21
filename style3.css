@@ -1,0 +1,20 @@
+
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+.welcome h2{
+  margin: 10px;
+    padding: 5px;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 10px;
+  }
+
+
+  .tr-head{
+    background-color: green;
+  }
+
+  table{
+    background-color: yellow;
+  }
